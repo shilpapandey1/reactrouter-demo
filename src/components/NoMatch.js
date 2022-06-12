@@ -3,7 +3,7 @@ import React from 'react'
 export const NoMatch = () => {
   return (
     <div>
-      Page not found1
+      Page not found
     </div>
   )
 }
